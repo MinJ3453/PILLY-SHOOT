@@ -8,7 +8,7 @@ https://cors-anywhere.herokuapp.com 로 접속하셔서
 
 
 
-cors 정책에 대한 해결책을 찾지 못하여 우회 사이트를 돌려 해결했습니다
+cors 정책에 대한 해결책을 찾지 못하여 우회 사이트로 돌렸습니다
 
 
 웹앱 어플 다운
